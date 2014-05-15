@@ -27,6 +27,7 @@ import android.app.Activity;
 public class MainActivity extends Activity {
 	
 	TextView data;
+	// this is the connection url
 	String url = "http://195.83.128.55/~iim1311/interface.php";
 	
     @Override
